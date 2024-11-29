@@ -18,4 +18,4 @@
 
 Результаты тестов:
 
-\includegraphics[]{readme_imgs/test_results.jpg}
+![alt text](https://github.com/OkoksNeDam/ml-hse-hw/readme_imgs/test_results.jpg?raw=true)
