@@ -18,4 +18,4 @@
 
 Результаты тестов:
 
-![alt text](https://github.com/OkoksNeDam/ml-hse-hw/hw_01/readme_imgs/test_results.jpg?raw=true)
+![alt text](https://github.com/OkoksNeDam/ml-hse-hw/blob/main/hw_01/readme_imgs/test_results.jpg?raw=true)
